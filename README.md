@@ -9,7 +9,7 @@ On this book, we'll use scheme language as primary language.
 >> Scheme is a programming language that supports multiple paradigms, including functional programming and imperative programming, and is one of the two main dialects of Lisp. Unlike Common Lisp, the other main dialect, Scheme follows a minimalist design philosophy specifying a small standard core with powerful tools for language extension. (Wikipedia.org)
 
 ### Installation scheme language
-In Ubuntu
+#### Ubuntu
 ```
 $> sudo apt-get install mit-scheme
 
