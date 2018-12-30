@@ -68,6 +68,9 @@ false ; => #f
       (else 25)) ; => 16
 ```
 
+## Exercises
+- [Chapter 1](https://github.com/sugar-for-pirate-king/SICP-Book/blob/master/exercises/exercise_ch1.scm)
+
 ## License
 MIT License
 
