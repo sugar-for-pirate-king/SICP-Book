@@ -68,6 +68,8 @@ false ; => #f
       (else 25)) ; => 16
 ```
 
+More ref: [https://groups.csail.mit.edu/mac/projects/scheme/](https://groups.csail.mit.edu/mac/projects/scheme/)
+
 ## Exercises
 - [Chapter 1](https://github.com/sugar-for-pirate-king/SICP-Book/blob/master/exercises/exercise_ch1.scm)
 
