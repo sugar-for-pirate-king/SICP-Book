@@ -35,7 +35,6 @@ If you want to run scheme from file program *.scm*. You can do that with type :
 $> scheme --quit < file_name.scm
 ```
 
-#### Data Types
 **Primary data type**
 ```scheme
 10 ; => 10
