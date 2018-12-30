@@ -9,8 +9,25 @@ On this book, we'll use scheme language as primary language.
 >> Scheme is a programming language that supports multiple paradigms, including functional programming and imperative programming, and is one of the two main dialects of Lisp. Unlike Common Lisp, the other main dialect, Scheme follows a minimalist design philosophy specifying a small standard core with powerful tools for language extension. (Wikipedia.org)
 
 ### Installation scheme language
-In ubuntu, you can install with typing `sudo apt-get install mit-scheme`, and if you already run that, you can open the interpreter with command `mit-scheme`. Also, if you want to quit from the interpreter just type `(quit)`.
+In Ubuntu
+```
+$> sudo apt-get install mit-scheme
 
+$> mit-scheme
+MIT/GNU Scheme running under GNU/Linux
+Type `^C' (control-C) followed by `H' to obtain information about interrupts.
+
+Copyright (C) 2011 Massachusetts Institute of Technology
+This is free software; see the source for copying conditions. There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR
+PURPOSE.
+
+Image saved on Tuesday February 6, 2018 at 6:31:25 PM
+  Release 9.1.1 || Microcode 15.3 || Runtime 15.7 || SF 4.41 || LIAR/x86-64 4.118 || Edwin 3.116
+
+1 ]=> (quit) ; => you can quit from the interpreter with type this
+
+$>
+```
 
 ### Scheme Language Reference
 If you want to run scheme from file program *.scm*. You can do that with type :
