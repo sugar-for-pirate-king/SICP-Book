@@ -37,16 +37,16 @@
    (* 3 (- 6 2) (- 2 7)))
 
 ; Exercise 1.3
-(define (hifumi x y z)
-        (cond ((and (< x y) (< x z)) (+ y z))
-        (else -1)))
+; Problem: Find the sum of 2 larger number when input given is 3 integer
+(define hifumi
+  (lambda (a b c)
+  (cond
+    ((and (<= a b) (<= a c)) (+ b c))
+    ((and (<= b a) (<= b c)) (+ a c))
+    (else (+ a b)))))
 
-(hifumi 1 2 4)
-
-; template
-; (cond (condition) (block))
-
-(cond true 10)
-
+(hifumi 1 2 3) ; => 5
+(hifumi 2 1 3) ; => 5
+(hifumi 2 3 1) ; => 5
 
 
