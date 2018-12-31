@@ -71,7 +71,7 @@ false ; => #f
 *More ref:* [https://groups.csail.mit.edu/mac/projects/scheme/](https://groups.csail.mit.edu/mac/projects/scheme/)
 
 ## Exercises
-- [Chapter 1](https://github.com/sugar-for-pirate-king/SICP-Book/blob/master/exercises/exercise_ch1.scm)
+- [Chapter 1](https://github.com/sugar-for-pirate-king/SICP-Book/blob/master/exercises/scheme/chapter1.scm)
 
 ## Motivation
 [![SICP Anime Opening](http://img.youtube.com/vi/a0YrCABCOEY/0.jpg)](https://www.youtube.com/watch?v=a0YrCABCOEY)
