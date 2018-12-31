@@ -43,4 +43,10 @@
 
 (hifumi 1 2 4)
 
-(cond (= 1 1) (1 + 1))
+; template
+; (cond (condition) (block))
+
+(cond true 10)
+
+
+

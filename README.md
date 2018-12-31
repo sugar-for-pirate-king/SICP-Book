@@ -73,9 +73,8 @@ false ; => #f
 ## Exercises
 - [Chapter 1](https://github.com/sugar-for-pirate-king/SICP-Book/blob/master/exercises/exercise_ch1.scm)
 
+## Motivation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a0YrCABCOEY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## License
 MIT License
-
-
-
-
