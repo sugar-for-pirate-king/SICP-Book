@@ -49,4 +49,14 @@
 (hifumi 2 1 3) ; => 5
 (hifumi 2 3 1) ; => 5
 
+; Exercise 1.4
+; Fix the function to expected procedure name
+(define a-plus-abs-b
+  (lambda (a b)
+  (if (< b 0)
+      (+ a (* b -1))
+      (+ a b))))
+
+(a-plus-abs-b 3 -10) ; => 13
+(a-plus-abs-b 3 10) ; => 13
 
