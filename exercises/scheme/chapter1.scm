@@ -60,3 +60,6 @@
 (a-plus-abs-b 3 -10) ; => 13
 (a-plus-abs-b 3 10) ; => 13
 
+; Exercise 1.5
+; Infinite loop, because because function/procedure (p) is call the self function.
+
